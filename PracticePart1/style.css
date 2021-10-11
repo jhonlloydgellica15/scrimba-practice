@@ -1,0 +1,17 @@
+* {
+  font-size: 62.5%;
+}
+body {
+  font-size: 3rem;
+  text-align: center;
+}
+span {
+  border-bottom: 1px solid black;
+}
+
+.btn {
+  border-radius: 50px;
+  border: 1px solid black;
+  cursor: pointer;
+  padding: 1rem 2rem;
+}
